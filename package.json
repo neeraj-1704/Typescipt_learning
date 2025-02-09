@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "To summarize the process of setting up and configuring TypeScript in your project:",
   "devDependencies": {
     "typescript": "^5.7.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neeraj-1704/Typescipt_learning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neeraj-1704/Typescipt_learning/issues"
+  },
+  "homepage": "https://github.com/neeraj-1704/Typescipt_learning#readme"
 }
